@@ -12,9 +12,9 @@ public class Branch {
 		System.out.println("3");
 		
 		System.out.println("가");
-		System.out.println("나");
-		System.out.println("다");
-		
+		System.out.println("갸");
+		System.out.println("거");
+		System.out.println("겨");
 	}
 
 }
