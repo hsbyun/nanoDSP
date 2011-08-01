@@ -12,6 +12,8 @@ public class Branch {
 		System.out.println("3");
 		
 		System.out.println("°¡");
+		System.out.println("³ª");
+		System.out.println("´Ù");
 		
 	}
 
