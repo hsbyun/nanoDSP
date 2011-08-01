@@ -15,6 +15,10 @@ public class Branch {
 		System.out.println("°¼");
 		System.out.println("°Å");
 		System.out.println("°Ü");
+		
+		System.out.println("¤¡");
+		System.out.println("¤¤");
+		System.out.println("¤§");
 	}
 
 }
