@@ -16,7 +16,7 @@ public class Branch {
 		System.out.println("°Å");
 		System.out.println("°Ü");
 		
-		System.out.println("r");
+		//System.out.println("r");
 		
 	
 		
