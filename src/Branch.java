@@ -18,7 +18,7 @@ public class Branch {
 		
 		System.out.println("r");
 		System.out.println("w");
-		System.out.println("q");
+	
 		
 	}
 
